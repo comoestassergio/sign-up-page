@@ -40,12 +40,13 @@ header .logo-container {
   width: 100%;
   position: absolute;
   top: 25%;
+  height: 12rem;
 }
 
 header .logo-container h1 {
   font-family: Norse Bold;
   color: white;
-  font-size: 5rem;
+  font-size: 7rem;
 }
 
 main {

@@ -19,6 +19,7 @@ header {
   background-image: url("/images/green.jpg");
   background-size: cover;
   height: 100%;
+  position: relative;
 }
 
 header .logo-container {
@@ -37,6 +38,8 @@ header .logo-container {
           align-items: center;
   background-color: rgba(0, 0, 0, 0.5);
   width: 100%;
+  position: absolute;
+  top: 25%;
 }
 
 header .logo-container h1 {
